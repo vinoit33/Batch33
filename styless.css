@@ -1,0 +1,65 @@
+.navbar
+{
+ padding: 10px;
+ margin: 2px;
+ background-color: whitesmoke;
+ margin-top: 10px;
+ 
+}
+.collapse
+{
+    padding-left: 10px;
+}
+.nav-item
+{
+    margin-left: 30px;
+    font-size: 25px;
+}
+.headding
+{
+    text-align: center;
+    padding-top:40px;
+    padding-bottom: 40px;
+    color:white;
+    
+    background-color: rgba(51, 85, 68, 0.89);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row
+{
+    margin: 2px;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.cardtitle
+{
+    padding-top: 30px;
+}
+.video{
+    border-radius: 20px;
+
+}
+.details
+{
+    
+    background-color: rgb(88, 85, 85);
+    padding: 10px;
+
+}
+.img-fluids{
+    border-radius: 50%;
+    
+}
+h3{
+    margin-left: 10px;
+    padding-top: 25px;
+}
+.end{
+ text-align: center;
+ color:rgba(21, 22, 19, 0.76);
+ background-color: rgba(68, 43, 43, 0.158);
+ font-size: 12px;
+ padding: 10px;
+}
